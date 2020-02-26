@@ -10,8 +10,7 @@
     <header>
       <h1>Meet the Cats</h1>
       <h2>Zedo</h2>
-
-      <nav>
+  <nav>
         <ul>
           <li><a href="../index.html">Home</a></li>
           <li><a href="../black-n-white/charlie.html">Charlie</a></li>
@@ -23,17 +22,14 @@
         </ul>
       </nav>
     </header>
-
-    <main>
-
-      <img src="../img/zedo.jpg" alt="Zedo" />
-
-      <ul>
+  <main>
+       <img src="../img/zedo.jpg" alt="Zedo" />
+  <ul>
         <li><strong>Owner of:</strong> Bryce</li>
         <li><strong>Type:</strong> Tuxedo</li>
         <li><strong>Favorite food:</strong> Tuna</li>
       </ul>
-
-    </main>
+      
+  </main>
   </body>
 </html>
