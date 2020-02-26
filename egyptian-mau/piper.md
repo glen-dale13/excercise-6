@@ -10,7 +10,6 @@
     <header>
       <h1>Meet the Cats</h1>
       <h2>Piper</h2>
-
       <nav>
         <ul>
           <li><a href="../index.html">Home</a></li>
@@ -24,16 +23,14 @@
       </nav>
     </header>
 
-    <main>
-
+   <main>
       <img src="../img/piper.jpg" alt="Piper" />
-
       <ul>
         <li><strong>Owner of:</strong> Will</li>
         <li><strong>Type:</strong> Egyptian Mau</li>
         <li><strong>Favorite food:</strong> Fish</li>
       </ul>
 
-    </main>
+   </main>
   </body>
 </html>
