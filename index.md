@@ -9,7 +9,6 @@
   <body>
     <header>
       <h1>Meet the Cats</h1>
-
       <nav>
         <ul>
           <li>Home</li>
