@@ -11,7 +11,7 @@
       <h1>Meet the Cats</h1>
       <h2>Charlie</h2>
 
-      <nav>
+ <nav>
         <ul>
           <li><a href="../index.html">Home</a></li>
           <li><a href="charlie.html">Charlie</a></li>
@@ -24,7 +24,7 @@
       </nav>
     </header>
     
-    <main>
+   <main>
 
       <img src="../img/charlie.jpg" alt="Charlie" />
 
